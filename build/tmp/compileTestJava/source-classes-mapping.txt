@@ -1,0 +1,2 @@
+com/example/auth/AuthApplicationTests.java
+ com.example.auth.AuthApplicationTests
